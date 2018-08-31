@@ -1,0 +1,16 @@
+C:\Users\Jens\source\repos\CookieTest\CookieTest\bin\Debug\CookieTest.exe.config
+C:\Users\Jens\source\repos\CookieTest\CookieTest\bin\Debug\CookieTest.exe
+C:\Users\Jens\source\repos\CookieTest\CookieTest\bin\Debug\CookieTest.pdb
+C:\Users\Jens\source\repos\CookieTest\CookieTest\bin\Debug\CookieTest.xml
+C:\Users\Jens\source\repos\CookieTest\CookieTest\obj\Debug\CookieTest.vbprojAssemblyReference.cache
+C:\Users\Jens\source\repos\CookieTest\CookieTest\obj\Debug\CookieTest.Form1.resources
+C:\Users\Jens\source\repos\CookieTest\CookieTest\obj\Debug\CookieTest.Resources.resources
+C:\Users\Jens\source\repos\CookieTest\CookieTest\obj\Debug\CookieTest.vbproj.GenerateResource.cache
+C:\Users\Jens\source\repos\CookieTest\CookieTest\obj\Debug\CookieTest.vbproj.CoreCompileInputs.cache
+C:\Users\Jens\source\repos\CookieTest\CookieTest\obj\Debug\CookieTest.exe
+C:\Users\Jens\source\repos\CookieTest\CookieTest\obj\Debug\CookieTest.xml
+C:\Users\Jens\source\repos\CookieTest\CookieTest\obj\Debug\CookieTest.pdb
+C:\Users\Jens\source\repos\CookieTest\CookieTest\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Jens\source\repos\CookieTest\CookieTest\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Jens\source\repos\CookieTest\CookieTest\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Jens\source\repos\CookieTest\CookieTest\obj\Debug\CookieTest.vbproj.CopyComplete
